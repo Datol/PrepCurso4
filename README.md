@@ -1,2 +1,1 @@
-# PrepCurso4
-Este es un repositorio del modulo 2 del prep course de Henry
+practica para clonar proyecto desde github
